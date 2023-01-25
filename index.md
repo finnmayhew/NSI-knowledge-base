@@ -1,4 +1,4 @@
-# Index
+# Entrance
 
 [IceCube](icecube.md)
 
