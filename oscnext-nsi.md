@@ -8,4 +8,4 @@ Performed by Elisa Lohfink.
 
 Uses 8 years of [DeepCore](deepcore.md) data from 5.6 to 300 GeV ([source](https://www.overleaf.com/project/5f57381a93408c0001d7bb10)).
 
-[[PISA]] on its own cannot handle the NSI parameter space for a few reasons. [[MCMC]] is used in place of minimization, with [[emcee]] and [[openMPI]]. This will allow simultaneous evaluation of all NSI parameters ([source](https://pos.sissa.it/398/245/pdf)).
+[[PISA]] on its own cannot handle the NSI parameter space for a few reasons. [MCMC](mcmc.md) is used in place of minimization via [emcee](emcee.md). This will allow simultaneous evaluation of all NSI parameters ([source](https://pos.sissa.it/398/245/pdf)).
