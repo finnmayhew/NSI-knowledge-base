@@ -2,6 +2,4 @@
 
 Physics beyond the Standard Model.
 
-One scenario is [NSI](nsi.md).
-
-Manifests in oscillation measurements through [matter effects](matter-effects.md).
+One way it may manifest is in [NSI](nsi.md).
