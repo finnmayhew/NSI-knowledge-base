@@ -35,9 +35,9 @@ $$
 
 For some reason, you can subtract off $\epsilon_{\mu\mu}^\oplus \times \mathbf{1}$ to reduce the parameters to five, and then the Hamiltonian is described by a total of eight real parameters ([source](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.104.072006)):
 
-- $|\epsilon_{e\mu}^\oplus|$
-- $|\epsilon_{e\tau}^\oplus|$
-- $|\epsilon_{\mu\tau}^\oplus|$
+- $\vert\epsilon_{e\mu}^\oplus\vert$
+- $\vert\epsilon_{e\tau}^\oplus\vert$
+- $\vert\epsilon_{\mu\tau}^\oplus\vert$
 - $\epsilon_{ee}^\oplus - \epsilon_{\mu\mu}^\oplus$
 - $\epsilon_{\tau\tau}^\oplus - \epsilon_{\mu\mu}^\oplus$
 - $\delta_{e\mu}$

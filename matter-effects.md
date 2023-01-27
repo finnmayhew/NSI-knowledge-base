@@ -4,7 +4,7 @@ Distortions on the vacuum [oscillation](oscillation.md) probabilities due to the
 
 $$
 \begin{align*}
-    \mathcal{H}_\text{mat}(x) &= V_\text{CC}(x)
+    H_\text{mat}(x) &= V_\text{CC}(x)
     \begin{pmatrix}
         1 + \epsilon_{ee}^\oplus - \epsilon_{\mu\mu}^\oplus & \epsilon_{e\mu}^\oplus & \epsilon_{e\tau}^\oplus\\
         \epsilon_{e\mu}^{\oplus*} & 0 & \epsilon_{\mu\tau}^\oplus\\

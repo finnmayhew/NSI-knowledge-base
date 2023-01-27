@@ -6,8 +6,8 @@ Measured oscillations are a combination of vacuum oscillations and [matter effec
 
 $$
 \begin{align*}
-    \mathcal{H}_\nu(x) &= \mathcal{H}_\text{vac} + \mathcal{H}_\text{mat}(x)\\
-    \mathcal{H}_{\bar{\nu}}(x) &= \big(\mathcal{H}_\text{vac} - \mathcal{H}_\text{mat}(x)\big)^*
+    H_\nu(x) &= H_\text{vac} + H_\text{mat}(x)\\
+    H_{\bar{\nu}}(x) &= \big(H_\text{vac} - H_\text{mat}(x)\big)^*
 \end{align*}
 $$
 
