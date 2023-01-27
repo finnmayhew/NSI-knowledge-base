@@ -44,6 +44,8 @@ For some reason, you can subtract off $\epsilon_{\mu\mu}^\oplus \times \mathbf{1
 - $\delta_{e\tau}$
 - $\delta_{\mu\tau}$
 
+The parameters with minus signs in them are called the "nonuniversality strengths" ([source](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.104.072006)).
+
 This approach is mostly independent of the underlying model and mediator mass ([source](https://pos.sissa.it/398/245/pdf)).
 
 ## Analyses
