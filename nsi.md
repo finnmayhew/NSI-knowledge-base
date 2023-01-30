@@ -25,7 +25,7 @@ Our approach parametrizes the effect of NSI on the matter potential through six 
 
 where $\epsilon_{\alpha\beta}^\oplus \approx \epsilon_{\alpha\beta}^e + \epsilon_{\alpha\beta}^p + Y_n^\oplus\epsilon_{\alpha\beta}^n$ ([source](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.104.072006)).
 
-ALl these parameters are potentially complex ([source](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.104.072006)):
+All these parameters are potentially complex ([source](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.104.072006)):
 
 $$
 \begin{align*}
