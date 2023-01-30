@@ -16,10 +16,10 @@ Our approach parametrizes the effect of NSI on the matter potential through six 
 
 | Parameter                    | Label                                |
 | ---------------------------- | ------------------------------------ |
-| $\epsilon_{e\mu}^\oplus$     | "flavor-violating"                   |
+| $\epsilon_{e\mu}^\oplus$     | "[flavor-violating](flavor-changing-neutral-current.md)"                   |
 | $\epsilon_{e\tau}^\oplus$    | "flavor-violating"                   |
 | $\epsilon_{\mu\tau}^\oplus$  | "flavor-violating"                   |
-| $\epsilon_{ee}^\oplus$       | "flavor-universal"/"flavor-diagonal" |
+| $\epsilon_{ee}^\oplus$       | "[flavor-universal](flavor-universality.md)"/"flavor-diagonal" |
 | $\epsilon_{\mu\mu}^\oplus$   | "flavor-universal"/"flavor-diagonal" |
 | $\epsilon_{\tau\tau}^\oplus$ | "flavor-universal"/"flavor-diagonal" |
 
@@ -44,7 +44,7 @@ For some reason, you can subtract off $\epsilon_{\mu\mu}^\oplus \times \mathbf{1
 - $\delta_{e\tau}$
 - $\delta_{\mu\tau}$
 
-The parameters with minus signs in them are called the "nonuniversality strengths" ([source](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.104.072006)).
+The parameters with minus signs in them are called the "[nonuniversality](flavor-universality.md) strengths" ([source](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.104.072006)).
 
 This approach is mostly independent of the underlying model and mediator mass ([source](https://pos.sissa.it/398/245/pdf)).
 

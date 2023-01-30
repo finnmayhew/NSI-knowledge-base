@@ -25,4 +25,6 @@ It can be approximated and reduced to a version called the "generalized matter p
 - $\varphi_{12}$
 - $\varphi_{13}$
 
+Obtained frequentist confidence intervals due to "the computational infeasibility of a Feldman-Cousins approach" ([source](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.104.072006)).
+
 Succeeded by the [OscNext NSI](oscnext-nsi.md) analysis.
