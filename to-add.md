@@ -8,4 +8,4 @@
 
 ## Fix
 
-- Change sources to deepest reference
+- Change sources to deepest references (use DOIs when available)

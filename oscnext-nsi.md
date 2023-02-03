@@ -4,7 +4,7 @@ An ongoing IceCube [NSI](nsi.md) analysis ([wiki](https://wiki.icecube.wisc.edu/
 
 Follows the precedent of the [DRAGON NSI](dragon-nsi.md) analysis.
 
-Performed by Elisa Lohfink.
+Performed by Elisa Lohfink ([thesis](https://seafile.rlp.net/f/f660b4d52dc04953bb36/)).
 
 Uses 8 years of [DeepCore](deepcore.md) data from 5.6 to 300 GeV ([source](https://www.overleaf.com/project/5f57381a93408c0001d7bb10)).
 
