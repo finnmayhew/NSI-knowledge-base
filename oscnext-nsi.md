@@ -9,5 +9,3 @@ Performed by Elisa Lohfink ([thesis](https://seafile.rlp.net/f/f660b4d52dc04953b
 Uses 8 years of [DeepCore](deepcore.md) data from 5.6 to 300 GeV ([source](https://www.overleaf.com/project/5f57381a93408c0001d7bb10)).
 
 [[PISA]] on its own cannot handle the NSI parameter space for a few reasons. [MCMC](mcmc.md) is used in place of minimization via [emcee](emcee.md). This will allow simultaneous evaluation of all NSI parameters ([source](https://pos.sissa.it/398/245/pdf)).
-
-[Code](https://github.com/icecube/wg-oscillations-fridge/blob/master/analysis/oscNext_NSI/scripts/plotting/prob3_numba_oscillograms.py) to plot [oscillograms](oscillograms.md).
