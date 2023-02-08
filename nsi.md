@@ -6,11 +6,11 @@ Non-standard neutrino interactions.
 
 There's a brief theory overview in the [DRAGON NSI paper](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.104.072006).
 
-If they exist, driven by [BSM](bsm.md).
+A possible [BSM](bsm.md) effect driven by physics at a higher energy scale $\Lambda$ that manifests at lower energies through sixth-order operators in the extended SM field theory ([source](https://seafile.rlp.net/f/f660b4d52dc04953bb36/)).
 
-NSI manifests through NC forward scattering between neutrinos and charged fermions in the Earth, assuming a new heavy mediator particle ([source](https://pos.sissa.it/398/245/pdf)).
+NSI manifests through impacts on the forward scattering between neutrinos and charged fermions in the Earth ([matter effects](matter-effects.md)), assuming a new heavy mediator particle ([source](https://pos.sissa.it/398/245/pdf)).
 
-The existence of NSI effects may resolve tensions in the standard [oscillation](oscillation.md) parameters ([source](https://pos.sissa.it/398/245/pdf)).
+The existence of NSI effects may resolve tensions in the standard [oscillation](oscillation.md) parameters ([source](https://pos.sissa.it/398/245/pdf)). Additionally, detection or exclusions of NSI is relevant for interpretations of measurements of the oscillation parameters ([source](https://seafile.rlp.net/f/f660b4d52dc04953bb36/)).
 
 Our approach parametrizes the effect of NSI on the matter potential through six effective coupling parameters:
 
@@ -50,10 +50,7 @@ This approach is mostly independent of the underlying model and mediator mass ([
 
 ## Analyses
 
-"What sets neutrino oscillation experiments apart from
-other experiments is their unique capability to probe BSM
-scenarios responsible for NSI independently of the new
-physics energy scale $\Lambda$" ([source](https://pos.sissa.it/398/245/pdf)).
+"What sets neutrino oscillation experiments apart from other experiments is their unique capability to probe BSM scenarios responsible for NSI independently of the new physics energy scale $\Lambda$" ([source](https://pos.sissa.it/398/245/pdf)).
 
 [DeepCore](deepcore.md) is most sensitive to $\epsilon_{\mu\tau}^\oplus$, but can constrain all effective NSI parameters ([source](https://pos.sissa.it/398/245/pdf)).
 

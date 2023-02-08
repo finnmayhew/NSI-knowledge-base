@@ -11,4 +11,6 @@ $$
 \end{align*}
 $$
 
+Detection or exclusions of [NSI](nsi.md) is relevant for interpretations of measurements of the oscillation parameters ([source](https://seafile.rlp.net/f/f660b4d52dc04953bb36/)).
+
 Viewed on [oscillograms](oscillograms.md).
