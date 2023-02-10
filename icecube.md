@@ -3,7 +3,6 @@
 Consists of
 
 - [IC86](ic86.md)
-- [DeepCore](deepcore.md)
 - IceTop
 
 Future extensions are
