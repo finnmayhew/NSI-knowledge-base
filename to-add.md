@@ -1,11 +1,9 @@
 # To do
 
-## Add
+Add
 
 - [[Detector signatures]]
 - [[PISA]]
 - [[Fridge]]
 
-## Fix
-
-- Change sources to deepest references (use DOIs when available)
+Check info from references where indicated.

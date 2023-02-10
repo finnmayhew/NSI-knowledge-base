@@ -12,8 +12,8 @@ $$
     \end{pmatrix}
 \end{align*}
 $$
-where $V_\text{CC}(x) = \sqrt{2}G_FN_e(x)$ ([Thomas-DRAGON-2021](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.104.072006)).
+where $V_\text{CC}(x) = \sqrt{2}G_FN_e(x)$ ([Opher-scattering-1974](https://ui.adsabs.harvard.edu/abs/1974A%26A....37..135O%2F/abstract))  (check) ([Langacker-scattering-1983](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.27.1228)) (check).
 
 For no [NSI](nsi.md) effects, the $\epsilon$'s are 0.
 
-Caused by the difference between coherent forward scattering behaviors of the neutrino flavors ([Elisa-thesis-2023](https://seafile.rlp.net/f/f660b4d52dc04953bb36/)).
+Caused by the difference between coherent forward scattering behaviors of the neutrino flavors ([Giunti-neutrinofundamentals-2007](http://theor.jinr.ru/~vnaumov/Eng/JINR_Lectures/books/Giunti2007.pdf)) (check).

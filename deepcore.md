@@ -1,7 +1,7 @@
 # DeepCore
 
-A component of [IceCube](icecube.md).
+A component of [IceCube](icecube.md) and [IC86](ic86.md).
 
-Allows for the measurement of low-energy (5-300 GeV) events ([Elisa-EPS-2021](https://pos.sissa.it/398/245/pdf)), which are sensitive to [oscillations](oscillation.md).
+Designed for the measurement of low-energy (10-100 GeV) events ([IC-DeepCore-2012](https://www.sciencedirect.com/science/article/abs/pii/S0927650512000254?via%3Dihub)), which are sensitive to [oscillations](oscillation.md).
 
 Its goals will be furthered with the [Upgrade](upgrade.md).
