@@ -6,7 +6,7 @@ Non-standard neutrino interactions.
 
 There's a brief theory overview in [Thomas-DRAGON-2021](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.104.072006).
 
-A possible [BSM](bsm.md) effect driven by physics at a higher energy scale $\Lambda$ that manifests at lower energies through sixth-order operators in the extended SM field theory ([Ohlsson-nsi-2013](https://iopscience.iop.org/article/10.1088/0034-4885/76/4/044201)) (check).
+A possible [BSM](bsm.md) effect driven by physics at a higher energy scale $\Lambda$ that manifests at lower energies through sixth-order operators in the extended SM field theory ([Ohlsson-nsi-2013](https://iopscience.iop.org/article/10.1088/0034-4885/76/4/044201)) (check about higher energy scale). NSI is predicted by several neutrino mass models ([Bischer-fieldtheory-2019](https://www.sciencedirect.com/science/article/pii/S0550321319302329?via%3Dihub)).
 
 NC NSI manifests through impacts on the forward scattering between neutrinos and charged fermions in the Earth ([matter effects](matter-effects.md)) ([Bhupal-nsi-2019](https://scipost.org/SciPostPhysProc.2.001/pdf)).
 
