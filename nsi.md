@@ -2,11 +2,13 @@
 
 Non-standard neutrino interactions.
 
+Introduced as a concept by Wolfenstein ([Wolfenstein-oscillations-1978](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.17.2369)).
+
 ## Theory
 
-There's a brief theory overview in [Thomas-DRAGON-2021](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.104.072006).
-
 A possible [BSM](bsm.md) effect driven by physics at a higher energy scale $\Lambda$ that manifests at lower energies through sixth-order operators in the extended SM field theory ([Ohlsson-nsi-2013](https://iopscience.iop.org/article/10.1088/0034-4885/76/4/044201)) (check about higher energy scale). NSI is predicted by several neutrino mass models ([Bischer-fieldtheory-2019](https://www.sciencedirect.com/science/article/pii/S0550321319302329?via%3Dihub)).
+
+Commonly modelled using an assumed new mediator particle Z' ([Elisa-thesis-2023](https://seafile.rlp.net/f/f660b4d52dc04953bb36/)).
 
 NC NSI manifests through impacts on the forward scattering between neutrinos and charged fermions in the Earth ([matter effects](matter-effects.md)) ([Bhupal-nsi-2019](https://scipost.org/SciPostPhysProc.2.001/pdf)).
 
@@ -25,11 +27,11 @@ Our approach parametrizes the effect of NSI on the matter potential through six 
 
 where $\epsilon_{\alpha\beta}^\oplus \approx \epsilon_{\alpha\beta}^e + \epsilon_{\alpha\beta}^p + Y_n^\oplus\epsilon_{\alpha\beta}^n$ ([Thomas-DRAGON-2021](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.104.072006)).
 
-All these parameters are potentially complex ([Thomas-DRAGON-2021](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.104.072006)):
+The non-diagonal parameters are potentially complex ([Thomas-DRAGON-2021](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.104.072006)):
 
 $$
 \begin{align*}
-    \epsilon_{\alpha\beta}^\oplus &= |\epsilon_{\alpha\beta}^\oplus|e^{i\delta_{\alpha\beta}}
+    \epsilon_{\alpha\beta}^\oplus &= |\epsilon_{\alpha\beta}^\oplus|e^{i\delta_{\alpha\beta}} \quad (\alpha \neq \beta)
 \end{align*}
 $$
 
