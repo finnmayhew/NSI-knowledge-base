@@ -35,6 +35,7 @@ Frequentist:
   - Shiqi: talk to astronomer postdocs on the third floor
 - Improve FC computation
   - See work by Elisa and Alex
+- Find a way to include $\epsilon_{ee}^\oplus - \epsilon_{\mu\mu}^\oplus$? (see Elisa 7.6.2)
 
 Bayesian:
 
