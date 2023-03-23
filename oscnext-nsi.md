@@ -20,7 +20,15 @@ $$
 
 Frequentist:
 
-- Blind fit was at 4.8% p-value
+- Blind fit p-values:
+  
+Parameter | p-value
+-|-
+$\epsilon_{e\mu}^\oplus$ | 4.4%
+$\epsilon_{e\tau}^\oplus$ | 4.6%
+$\epsilon_{\mu\tau}^\oplus$ | 5.4%
+$\epsilon_{ee}^\oplus - \epsilon_{\mu\mu}^\oplus$ | not fit
+$\epsilon_{\tau\tau}^\oplus - \epsilon_{\mu\mu}^\oplus$ | 4.8%
 
 Bayesian:
 
@@ -39,7 +47,7 @@ Frequentist:
 
 Bayesian:
 
-- Improve somehow to be able to leave phases free
+- Improve sensitivity to complex phases somehow
 - Test ultrasurfaces
 - Determine relevant checks on result
   - Shiqi suggests inject/recover, pre-fit data/MC, sensitivity
