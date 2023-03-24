@@ -43,14 +43,16 @@ Frequentist:
   - Shiqi: talk to astronomer postdocs on the third floor
 - Improve FC computation
   - See work by Elisa and Alex
-- Find a way to include $\epsilon_{ee}^\oplus - \epsilon_{\mu\mu}^\oplus$? (see Elisa 7.6.2)
+- Include $\epsilon_{ee}^\oplus - \epsilon_{\mu\mu}^\oplus$? (see Elisa 7.6.2) (currently excluded for computational reasons)
 
 Bayesian:
 
-- Improve sensitivity to complex phases somehow
+- Reduce computational efficiency, if possible (currently at 800 CPU hours per sampling run)
+- Improve sensitivity to complex phases, if possible
 - Test ultrasurfaces
 - Determine relevant checks on result
   - Shiqi suggests inject/recover, pre-fit data/MC, sensitivity
+- Perform with current nuisance parameters
 
 General:
 
