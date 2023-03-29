@@ -47,7 +47,7 @@ Frequentist:
 
 Bayesian:
 
-- Reduce computational efficiency, if possible (currently at 800 CPU hours per sampling run)
+- Improve computational efficiency, if possible (currently at 800 CPU hours per sampling run)
 - Improve sensitivity to complex phases, if possible
 - Test ultrasurfaces
 - Determine relevant checks on result
